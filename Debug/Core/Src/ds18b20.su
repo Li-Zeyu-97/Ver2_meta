@@ -1,0 +1,10 @@
+../Core/Src/ds18b20.c:13:6:DS18B20_IO_IN	32	static
+../Core/Src/ds18b20.c:20:6:DS18B20_IO_OUT	32	static
+../Core/Src/ds18b20.c:30:6:DS18B20_Rst	8	static
+../Core/Src/ds18b20.c:41:9:DS18B20_Check	16	static
+../Core/Src/ds18b20.c:62:9:DS18B20_Read_Bit	16	static
+../Core/Src/ds18b20.c:78:9:DS18B20_Read_Byte	16	static
+../Core/Src/ds18b20.c:91:6:DS18B20_Write_Byte	24	static
+../Core/Src/ds18b20.c:117:6:DS18B20_Start	8	static
+../Core/Src/ds18b20.c:127:9:DS18B20_Init	8	static
+../Core/Src/ds18b20.c:135:7:DS18B20_Get_Temp	16	static
